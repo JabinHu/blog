@@ -2,7 +2,7 @@
 
 | &nbsp;HTML&nbsp; | &nbsp;&nbsp;Css&nbsp;&nbsp;&nbsp; | JavaScript | &nbsp;JQuery&nbsp; | &nbsp;React&nbsp; | &nbsp;&nbsp;Vue&nbsp;&nbsp;  | &nbsp;Other&nbsp; |
 | :--: | :--: | :--------: | :----: | :---: | :--: | :---: |
-|  [🍭](#🍭-HTML)   |  [⛱](#⛱-Css)   |     [✏️](#✏️-JavaScript)      |   [🎉](#🎉-JQuery)    |   [🎨](#🎨-React)   |  [☁️](#☁️-Vue)   |   [🍒](#🍒-Other)   |
+|  [🍭](#🍭-HTML)   |  [⛱](#⛱-Css)   |     [✏️](#✏️-JavaScript)      |   [🎉](#🎉-JQuery)    |   [🎨](#🎨-React)   |  [☁️](#☁️-Vue)   |   [:cherries:](#cherries-Other)   |
 
 ## 🌸 后端
 
@@ -28,7 +28,7 @@
 
 
 
-# ☘️前端
+# ☘️ 前端
 
 ## 🍭 HTML
 
@@ -45,6 +45,7 @@
 ## ☁️ Vue
 
 ## 🍒 Other
+## :cherries: Other
 
 # 🌸 后端
 
