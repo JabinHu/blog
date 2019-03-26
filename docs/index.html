@@ -1,21 +1,64 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <title>Blog</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
-  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta name="viewport"
+    content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
+  <style>
+  </style>
 </head>
+
 <body>
-  <div id="app">🕒稍等片刻。。。</div>
+  <script>
+    if (typeof navigator.serviceWorker !== 'undefined') {
+      navigator.serviceWorker.register('sw.js')
+    }
+  </script>
+  <div id="app"></div>
   <script>
     window.$docsify = {
-      name: '知识点',
-      repo: ''
+      name: '目录',
+      repo: 'https://github.com/JabinHu/blog',
+      maxLevel: 3,
+      coverpage: true,
+      // routerMode: 'history', // 修改路由方式
+      search: {
+        maxAge: 86400000, // 过期时间，单位毫秒，默认一天
+        placeholder: '🔍   搜索···',
+        noData: '找不到结果!',
+      },
+      plugins: [
+        function (hook) {
+          var footer = [
+            '<hr/>',
+            '<footer align="right">',
+            '<p>每天都要加油呀💪💪💪</p>',
+            '<span><a href="https://github.com/JabinHu" target="_blank">Jabin Hu</a> &copy;2019.</span>',
+            '</footer>'
+          ].join('')
+
+          hook.afterEach(function (html) {
+            return html + footer
+          })
+        }
+      ]
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <!-- 支持复制 -->
+  <script src="//unpkg.com/docsify-copy-code"></script>
+  <!-- 支持图片放大 -->
+  <script src="//unpkg.com/docsify/lib/plugins/zoom-image.js"></script>
+  <!-- 支持bash语法高亮 -->
+  <script src="//unpkg.com/prismjs/components/prism-bash.js"></script>
+  <!-- <script src="//unpkg.com/prismjs/components/prism-json.js"></script> -->
+  <!-- 支持搜索 -->
+  <script src="https://cdn.bootcss.com/docsify/4.5.9/plugins/search.min.js"></script>
 </body>
+
 </html>
