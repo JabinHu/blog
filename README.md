@@ -1,26 +1,26 @@
-## [☘️ 前端](#-前端-1)
+## [:shamrock: 前端](#shamrock-前端)
 
 | &nbsp;HTML&nbsp; | &nbsp;&nbsp;Css&nbsp;&nbsp;&nbsp; | JavaScript | &nbsp;JQuery&nbsp; | &nbsp;React&nbsp; | &nbsp;&nbsp;Vue&nbsp;&nbsp;  | &nbsp;Other&nbsp; |
 | :--: | :--: | :--------: | :----: | :---: | :--: | :---: |
-|  [🍭](#-HTML)   |  [⛱](#-Css)   |     [✏️](#-JavaScript)      |   [🎉](#🎉-JQuery)    |   [🎨](#-React)   |  [☁️](#-Vue)   |   [🍒](#-Other)   |
+| [:lollipop:](#lollipop-HTML) |  [:parasol_on_ground:](#parasol_on_ground-Css)   |     [:pencil2:](#pencil2-JavaScript)      |   [:tada:](#tada-JQuery)    |   [:art:](#art-React)   |  [:cloud:](#cloud-Vue)   |   [:cherries:](#cherries-Other)   |
 
-## [🌸 后端](#-后端-1)
+## [:cherry_blossom: 后端](#cherry_blossom-后端)
 
 | Node | Java | MySQL |
 | :--: | :--: | :----:|
-|  [☃️](#-Node)   |  [🍅](#-Java)   |     [🔐](#-MySQL)     |
+|  [:snowman_with_snow:](#snowman_with_snow-Node)   |  [:tomato:](#tomato-Java)   |     [:closed_lock_with_key:](#closed_lock_with_key-MySQL)     |
 
-## [💐 构建](#-构建-1)
+## [:bouquet: 构建](#bouquet-构建)
 
 |     Git     |     Webpack     |
 | :---------: | :-------------: |
-| [❄️](#-Git) | [🍡](#-Webpack) |
+| [:snowflake:](#snowflake-Git) | [:dango:](#dango-Webpack) |
 
-## [🌺 其他](#-其他-1)
+## [:hibiscus: 其他](#hibiscus-其他)
 
 | Markdown |
 | :------: |
-|    [📜](#-markdown)     |
+|    [:scroll:](#scroll-markdown)     |
 
 
 
@@ -34,48 +34,47 @@
 
 
 
-# ☘️ 前端
+# :shamrock: 前端
 
-## 🍭 HTML
+## :lollipop: HTML
 
-## ⛱ Css
+## :parasol_on_ground: Css
 
-## ✏️ JavaScript
+## :pencil2: JavaScript
 
-### [📚 es6模块Module详解](notes/es6模块-Module.md)
+### [:books: es6模块Module详解](notes/es6模块-Module.md)
 
-## 🎉 JQuery
+## :tada: JQuery
 
-## 🎨 React
+## :art: React
 
-## ☁️ Vue
+## :cloud: Vue
 
-## 🍒 Other
-<!-- ## :cherries: Other -->
+## :cherries: Other
 
-# 🌸 后端
+# :cherry_blossom: 后端
 
-## ☃️ Node
+## :snowman_with_snow: Node
 
-## 🍅 Java
+## :tomato: Java
 
-## 🔐 MySQL
+## :closed_lock_with_key: MySQL
 
-# 💐 构建
+# :bouquet: 构建
 
-## ❄️ Git
+## :snowflake: Git
 
-### [📚 git知识点](notes/git学习笔记.md)
+### [:books: git知识点](notes/git学习笔记.md)
 
-## 🍡 Webpack
+## :dango: Webpack
 
-### [📚 webpack知识点](notes/webpack学习笔记.md)
+### [:books: webpack知识点](notes/webpack学习笔记.md)
 
-# 🌺 其他
+# :hibiscus: 其他
 
-## 📜 markdown
+## :scroll: markdown
 
-### [📚 markdown语法](notes/markdown笔记.md)
+### [:books: markdown语法](notes/markdown笔记.md)
 
 
 
