@@ -46,7 +46,7 @@ $ git commit -m "wrote a readme file"
 - 如果`git status`告诉你有文件被修改过，用`git diff`可以查看修改内容。
 - git diff 是只比较比较工作区和暂存区（最后一次add）的区别，git diff --cached 是只比较暂存区和版本库的区别，git diff HEAD -- filename 是只比较工作区和版本库（最后一次commit）的区别。三种比较各对应不同命令的。
 
-![image-20190226173026678](../pics/image-20190226173026678.png)
+![image-20190226173026678](../../pics/image-20190226173026678.png)
 
 ## 版本回退
 
@@ -60,7 +60,7 @@ $ git commit -m "wrote a readme file"
 
 Git的版本库里存了很多东西，其中最重要的就是称为stage（或者叫index）的暂存区，还有Git为我们自动创建的第一个分支`master`，以及指向`master`的一个指针叫`HEAD`。
 
-![image-20190225092410440](../pics/image-20190225092410440.png)
+![image-20190225092410440](../../pics/image-20190225092410440.png)
 
 ## 管理修改
 
@@ -180,7 +180,7 @@ Git鼓励大量使用分支：
 
 所以，团队合作的分支看起来就像这样：
 
-![image-20190226103735038](../pics/image-20190226103735038.png)
+![image-20190226103735038](../../pics/image-20190226103735038.png)
 
 ### 小结
 

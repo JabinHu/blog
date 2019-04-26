@@ -22,16 +22,18 @@
 | :------: |
 |    [:scroll:](#scroll-markdown)     |
 
-
+### License
 
 * 🌟 站在巨人的肩膀上向天堂前进~
 * 🎈 这个blog主要是自己平常学习知识点、笔记、摘录等~
 * 💡 主要给自己方便查阅资料~
 * 😋 毕竟健忘，啦啦啦。
 
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
 
+### 排版
 
-
+不使用 `![]()` 这种方式来引用图片，而是用 `<img>` 标签。一方面是为了能够控制图片以合适的大小显示，另一方面是因为 [GFM](https://github.github.com/gfm/) 不支持 `<center> ![]() </center>` 这种方法让图片居中显示，只能使用 `<div align="center"> <img src=""/> </div>` 达到居中的效果。
 
 
 # :shamrock: 前端
@@ -40,9 +42,15 @@
 
 ## :parasol_on_ground: Css
 
+### [:books: width和height](https://github.com/JabinHu/blog/blob/master/docs/notes/css/width和height.md)
+
 ## :pencil2: JavaScript
 
-### [:books: es6模块Module详解](notes/es6模块-Module.md)
+### [:books: js所有内置对象属性和方法汇总](https://github.com/JabinHu/blog/blob/master/docs/notes/javascript/js所有内置对象属性和方法汇总.md)
+
+### [:books: es6模块Module详解](https://github.com/JabinHu/blog/blob/master/docs/notes/javascript/es6-Module.md)
+
+### [:books: js知识点](https://github.com/JabinHu/blog/blob/master/docs/notes/javascript/js知识点.md)
 
 ## :tada: JQuery
 
@@ -64,17 +72,17 @@
 
 ## :snowflake: Git
 
-### [:books: git知识点](notes/git学习笔记.md)
+### [:books: git知识点](nhttps://github.com/JabinHu/blog/blob/master/docs/notes/git/git.md)
 
 ## :dango: Webpack
 
-### [:books: webpack知识点](notes/webpack学习笔记.md)
+### [:books: webpack知识点](https://github.com/JabinHu/blog/blob/master/docs/notes/webpack/webpack.md)
 
 # :hibiscus: 其他
 
 ## :scroll: markdown
 
-### [:books: markdown语法](notes/markdown笔记.md)
+### [:books: markdown语法](https://github.com/JabinHu/blog/blob/master/docs/notes/markdown/markdown.md)
 
 
 
