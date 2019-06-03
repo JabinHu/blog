@@ -26,7 +26,7 @@
 
 * 🌟 站在巨人的肩膀上向天堂前进~
 * 🎈 这个blog主要是自己平常学习知识点、笔记、摘录等~
-* 💡 主要给自己方便查阅资料~
+* 💡 主要给自己方便查阅资料，如有侵权，联系必删~
 * 😋 毕竟健忘，啦啦啦。
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
