@@ -40,6 +40,8 @@
 
 ## :lollipop: HTML
 
+### [:books: html5](https://github.com/JabinHu/blog/blob/master/docs/notes/html/html5.md)
+
 ## :parasol_on_ground: Css
 
 ### [:books: width和height](https://github.com/JabinHu/blog/blob/master/docs/notes/css/width和height.md)
@@ -61,6 +63,8 @@
 ### [:books: js知识点](https://github.com/JabinHu/blog/blob/master/docs/notes/javascript/js知识点.md)
 
 ## :tada: JQuery
+
+### [:books: jquery](https://github.com/JabinHu/blog/blob/master/docs/notes/jquery/jquery.md)
 
 ## :art: React
 
