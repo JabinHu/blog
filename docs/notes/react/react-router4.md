@@ -66,9 +66,10 @@ Route是路由的一个原材料，它是控制路径对应显示的组件。我
 <Route exact path="/" component={Home}></Route>
 <Route path="/second" component={Second}></Route>
 <Route path="/third" component={Third}></Route>
+<Route path="/fourth:id" component={Fourth}></Route>
 ```
 
-exact控制匹配到/路径时不会再继续向下匹配，path标识路由的路径，component表示路径对应显示的组件。后面我们将结合NavLink完成一个很基本的路由使用。同时我们可以设置例如/second/:id的方式来控制页面的显示，这需要配合Link或者NavLink配合使用。下面我们会提到
+exact控制匹配到/路径时不会再继续向下匹配，path标识路由的路径，component表示路径对应显示的组件。后面我们将结合NavLink完成一个很基本的路由使用。同时我们可以设置例如`/fourth:id`的方式来控制页面的显示，这需要配合Link或者NavLink配合使用。下面我们会提到
 
 ## Link和NavLink的选择
 两者都是可以控制路由跳转的，不同点是NavLink的api更多，更加满足你的需求。
@@ -88,9 +89,13 @@ import { Link } from 'react-router-dom';
     state: { fromDashboard: true }
   }}
 />
+<Link to="/courses" query={ id: 1 }>About</Link>
 ```
 
+> search跟query只能存在一个，一起存在时只去search的。
+
 这时点击Link就会跳转到courses。
+
 ### NavLink
 它可以为当前选中的路由设置类名、样式以及回调函数等。使用如下
 
@@ -114,9 +119,16 @@ import { NavLink } from 'react-router-dom';
 
 exact用于严格匹配，匹配到/则不会继续向下匹配，to则是控制跳转的路径，activeClassName是选中状态的类名，我们可以为其添加样式。
 
-![](../../pics/WX20190603-161348.png)
+### js方式跳转
+
+```
+this.props.history.push('/user');
+this.props.history.push({ pathname : '/user' ,query : { day: 'Friday'} });
+```
 
 ## 对象和方法
+
+![](../../pics/WX20190603-161348.png)
 
 ### history
 
@@ -204,6 +216,7 @@ componentWillReceiveProps(nextProps) {
 - match 对象包含了 <Route path> 如何与 URL 匹配的信息，具有以下属性：
 
   - params: object 路径参数，通过解析 URL 中的动态部分获得键值对
+    - `<Route path='/path/:name' component={Path}/>`
   - isExact: bool 为 true 时，整个 URL 都需要匹配
   - path: string 用来匹配的路径模式，用于创建嵌套的 <Route>
   - url: string URL 匹配的部分，用于嵌套的 <Link>

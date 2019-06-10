@@ -44,6 +44,14 @@
 
 ### [:books: width和height](https://github.com/JabinHu/blog/blob/master/docs/notes/css/width和height.md)
 
+### [:books: position](https://github.com/JabinHu/blog/blob/master/docs/notes/css/position.md)
+
+### [:books: 自动换行显示问题](https://github.com/JabinHu/blog/blob/master/docs/notes/css/自动换行显示问题.md)
+
+### [:books: 伪元素](https://github.com/JabinHu/blog/blob/master/docs/notes/css/伪元素.md)
+
+### [:books: css加载顺序](https://github.com/JabinHu/blog/blob/master/docs/notes/css/css加载顺序.md)
+
 ## :pencil2: JavaScript
 
 ### [:books: js所有内置对象属性和方法汇总](https://github.com/JabinHu/blog/blob/master/docs/notes/javascript/js所有内置对象属性和方法汇总.md)
@@ -55,6 +63,10 @@
 ## :tada: JQuery
 
 ## :art: React
+
+### [:books: react-router4](https://github.com/JabinHu/blog/blob/master/docs/notes/react/react-router4.md)
+
+### [:books: 技术站](https://github.com/JabinHu/blog/blob/master/docs/notes/react/技术站.md)
 
 ## :cloud: Vue
 
@@ -72,7 +84,7 @@
 
 ## :snowflake: Git
 
-### [:books: git知识点](nhttps://github.com/JabinHu/blog/blob/master/docs/notes/git/git.md)
+### [:books: git知识点](https://github.com/JabinHu/blog/blob/master/docs/notes/git/git.md)
 
 ## :dango: Webpack
 
