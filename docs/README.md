@@ -3,6 +3,8 @@
 
 ## 🍭 HTML
 - [html5](notes/html/html5.md)
+- [轮播图-淡入淡出](notes/html/轮播图-淡入淡出.md)
+- [轮播图-跑马灯式](notes/html/轮播图-跑马灯式.md)
 
 ## ⛱ Css
 - [width和height](notes/css/width和height.md)
@@ -26,7 +28,7 @@
 
 ## ☁️ Vue
 
-## 🍒 Other
+<!-- ## 🍒 Other -->
 
 # 🌸 后端
 ***

@@ -586,6 +586,7 @@ array.every(function(item,index,array){
 every()方法使用指定函数检测数组中的所有元素；如果数组中检测到有一个元素不满足，则整个表达式返回false，且剩余的元素不会再进行检测。如果所有元素都满足条件，则返回true；
 
 > 注意：some()和every()不会对空数组进行检测，且不会改变原来的数组。
+> [].some(e => e) 返回false，[].every(e => e) f返回true。
 
 **forEach()**:没有返回值，只是针对每个元素调用func
 

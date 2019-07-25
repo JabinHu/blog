@@ -83,7 +83,7 @@ Git的版本库里存了很多东西，其中最重要的就是称为stage（或
 
 `git rm HelloWorld.class —cached` 删除缓存区中的文件。
 
-`git checkout`其实是用版本库里的版本替换工作区的版本，无论工作区是修改还是删除，都可以“一键还原”。
+`git checkout commit_id 文件名`其实是用版本库里的版本替换工作区的版本，无论工作区是修改还是删除，都可以“一键还原”。
 
 # 三、远程仓库
 
@@ -98,6 +98,8 @@ Git的版本库里存了很多东西，其中最重要的就是称为stage（或
 删除已有的GitHub远程库:`git remote rm origin`；
 
 此后，每次本地提交后，只要有必要，就可以使用命令`git push origin master`推送最新修改；
+
+>  强制推送：`git push -f origin master`
 
 分布式版本系统的最大好处之一是在本地工作完全不需要考虑远程库的存在，也就是有没有联网都可以正常工作，而SVN在没有联网的时候是拒绝干活的！当有网络的时候，再把本地提交推送一下就完成了同步，真是太方便了！
 
@@ -149,7 +151,7 @@ Git支持多种协议，包括`https`，但通过`ssh`支持的原生`git`协议
 
 Git鼓励大量使用分支：
 
-查看分支：`git branch`
+查看分支：`git branch` 查看远程加 -a
 
 创建分支：`git branch <name>`
 
@@ -221,6 +223,7 @@ Git分支十分强大，在团队开发中应该充分应用。
    2. 如果推送失败，则因为远程分支比你的本地更新，需要先用`git pull`试图合并；
    3. 如果合并有冲突，则解决冲突，并在本地提交；
    4. 没有冲突或者解决掉冲突后，再用`git push origin <branch-name>`推送就能成功！
+   5. 第二种办法强制推送`git push origin master -f`；
 
 如果`git pull`提示`no tracking information`，则说明本地分支和远程分支的链接关系没有创建，用命令`git branch --set-upstream-to origin/<branch-name> <branch-name>`。
 
@@ -232,7 +235,7 @@ Git分支十分强大，在团队开发中应该充分应用。
 - 本地新建的分支如果不推送到远程，对其他人就是不可见的；
 - 从本地推送分支，使用`git push origin branch-name`，如果推送失败，先用`git pull`抓取远程的新提交；
 - 在本地创建和远程分支对应的分支，使用`git checkout -b branch-name origin/branch-name`，本地和远程分支的名称最好一致；（这里已经建立关联了）
-- 建立本地分支和远程分支的关联，使用`git branch --set-upstream origin/branch-name branch-name `；
+- 建立本地分支和远程分支的关联，使用`git branch --set-upstream-to=origin/branch-name branch-name `；
 - 从远程抓取分支，使用`git pull`，如果有冲突，要先处理冲突。
 
 ## Rebase
@@ -240,6 +243,7 @@ Git分支十分强大，在团队开发中应该充分应用。
 - rebase操作可以把本地未push的分叉提交历史整理成直线；
 
 - rebase的目的是使得我们在查看历史提交的变化时更容易，因为分叉的提交需要三方对比。
+
 # 五、标签管理
 
 Git的标签虽然是版本库的快照，但其实它就是指向某个commit的指针（跟分支很像对不对？但是分支可以移动，标签不能移动），所以，创建和删除标签都是瞬间完成的。tag就是一个让人容易记住的有意义的名字，它跟某个commit绑在一起。

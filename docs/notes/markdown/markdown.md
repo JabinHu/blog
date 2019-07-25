@@ -323,3 +323,13 @@ fun();
 - [typora 官网-流程图](http://support.typora.io/Draw-Diagrams-With-Markdown/)
 - [typora画流程图、时序图(顺序图)、甘特图](https://jingyan.baidu.com/article/48b558e3035d9a7f38c09aeb.html)
 > typora 需要在设置中开启流程图模式
+
+# 十一、编辑器推荐
+
+- [在 Windows 上拥有舒适的码字体验，12 款 Markdown 写作工具推荐](https://sspai.com/post/42126)
+- [解决作者们的焦虑：7 款优秀 Markdown 编辑工具推荐](https://sspai.com/post/27792)
+- [想试试其它写作工具？11 款好用的 Markdown 编辑器推荐](https://sspai.com/post/40358)
+
+# 十二、语法介绍
+
+- [Markdown语法介绍（详细）](https://blog.csdn.net/afei__/article/details/80717153)

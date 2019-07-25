@@ -1,8 +1,8 @@
 ## [:shamrock: 前端](#shamrock-前端)
 
-| &nbsp;HTML&nbsp; | &nbsp;&nbsp;Css&nbsp;&nbsp;&nbsp; | JavaScript | &nbsp;JQuery&nbsp; | &nbsp;React&nbsp; | &nbsp;&nbsp;Vue&nbsp;&nbsp;  | &nbsp;Other&nbsp; |
-| :--: | :--: | :--------: | :----: | :---: | :--: | :---: |
-| [:lollipop:](#lollipop-HTML) |  [:parasol_on_ground:](#parasol_on_ground-Css)   |     [:pencil2:](#pencil2-JavaScript)      |   [:tada:](#tada-JQuery)    |   [:art:](#art-React)   |  [:cloud:](#cloud-Vue)   |   [:cherries:](#cherries-Other)   |
+| &nbsp;HTML&nbsp; | &nbsp;&nbsp;Css&nbsp;&nbsp;&nbsp; | JavaScript | &nbsp;JQuery&nbsp; | &nbsp;React&nbsp; | &nbsp;&nbsp;Vue&nbsp;&nbsp;  |
+| :--: | :--: | :--------: | :----: | :---: | :--: |
+| [:lollipop:](#lollipop-HTML) |  [:parasol_on_ground:](#parasol_on_ground-Css)   |     [:pencil2:](#pencil2-JavaScript)      |   [:tada:](#tada-JQuery)    |   [:art:](#art-React)   |  [:cloud:](#cloud-Vue)   |
 
 ## [:cherry_blossom: 后端](#cherry_blossom-后端)
 
@@ -41,6 +41,8 @@
 ## :lollipop: HTML
 
 ### [:books: html5](https://github.com/JabinHu/blog/blob/master/docs/notes/html/html5.md)
+### [:books: 轮播图-淡入淡出](https://github.com/JabinHu/blog/blob/master/docs/notes/html/轮播图-淡入淡出.md)
+### [:books: 轮播图-跑马灯式](https://github.com/JabinHu/blog/blob/master/docs/notes/html/轮播图-跑马灯式.md)
 
 ## :parasol_on_ground: Css
 
@@ -74,7 +76,7 @@
 
 ## :cloud: Vue
 
-## :cherries: Other
+<!-- ## :cherries: Other -->
 
 # :cherry_blossom: 后端
 
