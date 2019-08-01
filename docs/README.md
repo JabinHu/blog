@@ -14,6 +14,7 @@
 - [css加载顺序](notes/css/css加载顺序.md)
 
 ## ✏️ JavaScript
+- [js中的prototype、__proto__与constructor](notes/javascript/js中的prototype、__proto__与constructor.md)
 - [js所有内置对象属性和方法汇总](notes/javascript/js所有内置对象属性和方法汇总.md)
 - [JavaScript模块化发展](notes/javascript/JavaScript模块化发展.md)
 - [es6模块Module详解](notes/javascript/es6-Module.md)

@@ -58,6 +58,8 @@
 
 ## :pencil2: JavaScript
 
+### [:books: js中的prototype、__proto__与constructor](https://github.com/JabinHu/blog/blob/master/docs/notes/javascript/js中的prototype、__proto__与constructor.md)
+
 ### [:books: js所有内置对象属性和方法汇总](https://github.com/JabinHu/blog/blob/master/docs/notes/javascript/js所有内置对象属性和方法汇总.md)
 
 ### [:books: es6模块Module详解](https://github.com/JabinHu/blog/blob/master/docs/notes/javascript/es6-Module.md)
