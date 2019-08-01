@@ -62,6 +62,8 @@
 
 ### [:books: js所有内置对象属性和方法汇总](https://github.com/JabinHu/blog/blob/master/docs/notes/javascript/js所有内置对象属性和方法汇总.md)
 
+### [:books: JavaScript模块化发展](https://github.com/JabinHu/blog/blob/master/docs/notes/javascript/JavaScript模块化发展.md)
+
 ### [:books: es6模块Module详解](https://github.com/JabinHu/blog/blob/master/docs/notes/javascript/es6-Module.md)
 
 ### [:books: js知识点](https://github.com/JabinHu/blog/blob/master/docs/notes/javascript/js知识点.md)

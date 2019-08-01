@@ -97,8 +97,13 @@ let f1 = new Foo();
 
 ## 疑惑解释
 
-- 实例对象`Foo.prototype`本身具有`constructor`属性，所以它会覆盖继承自原型对象`Object.prototype`的`constructor`属性
+- `Foo.prototype`是`f1`的原型对象，同时它也是实例对象。实际上，**任何对象都可以看做是通过`Object()`构造函数的`new`操作实例化的对象。**所以，`Foo.prototype`作为实例对象，它的构造函数是`Object()`，原型对象是`Object.prototype`。相应地，构造函数`Object()`的`prototype`属性指向原型对象`Object.prototype`；实例对象`Foo.prototype`的`proto`属性同样指向原型对象`Object.prototype`
 
+- 实例对象`Foo.prototype`本身具有`constructor`属性，所以它会覆盖继承自原型对象`Object.prototype`的`constructor`属性。
+
+- 前面已经介绍过，函数也是对象，只不过是具有特殊功能的对象而已。**任何函数都可以看做是通过`Function()`构造函数的new操作实例化的结果。**如果把函数Foo当成实例对象的话，其构造函数是`Function()`，其原型对象是`Function.prototype`；类似地，函数`Object`的构造函数也是`Function()`，其原型对象是`Function.prototype`。
+
+- 所有的函数都可以看成是构造函数`Function()`的`new`操作的实例化对象。那么，`Function`可以看成是调用其自身的`new`操作的实例化的结果
 
 ## 总结
 
