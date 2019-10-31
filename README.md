@@ -61,6 +61,8 @@
 
 ### [:books: 元素分类](https://github.com/JabinHu/blog/blob/master/docs/notes/css/元素分类.md)
 
+### [:books: css属性选择器区别](https://github.com/JabinHu/blog/blob/master/docs/notes/css/css属性选择器区别.md)
+
 ## :pencil2: JavaScript
 
 ### [:books: js中的prototype、__proto__与constructor](https://github.com/JabinHu/blog/blob/master/docs/notes/javascript/js中的prototype、__proto__与constructor.md)
@@ -68,6 +70,8 @@
 ### [:books: js所有内置对象属性和方法汇总](https://github.com/JabinHu/blog/blob/master/docs/notes/javascript/js所有内置对象属性和方法汇总.md)
 
 ### [:books: JavaScript模块化发展](https://github.com/JabinHu/blog/blob/master/docs/notes/javascript/JavaScript模块化发展.md)
+
+### [:books: JavaScript设计模式与开发实践](https://github.com/JabinHu/blog/blob/master/docs/notes/javascript/JavaScript设计模式与开发实践.md)
 
 ### [:books: es6模块Module详解](https://github.com/JabinHu/blog/blob/master/docs/notes/javascript/es6-Module.md)
 

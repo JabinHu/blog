@@ -5,7 +5,7 @@
 - [html5](notes/html/html5.md)
 - [轮播图-淡入淡出](notes/html/轮播图-淡入淡出.md)
 - [轮播图-跑马灯式](notes/html/轮播图-跑马灯式.md)
-- [解决回车键(Enter)触发form表单提交的问题](解决回车键(Enter)触发form表单提交的问题.md)
+- [解决回车键(Enter)触发form表单提交的问题](notes/html/解决回车键(Enter)触发form表单提交的问题.md)
 
 ## ⛱ Css
 - [width和height](notes/css/width和height.md)
@@ -15,11 +15,14 @@
 - [css加载顺序](notes/css/css加载顺序.md)
 - [media查询](notes/css/media查询.md)
 - [元素分类](notes/css/元素分类.md)
+- [css属性选择器区别](notes/css/css属性选择器区别.md)
+
 
 ## ✏️ JavaScript
 - [js中的prototype、__proto__与constructor](notes/javascript/js中的prototype、__proto__与constructor.md)
 - [js所有内置对象属性和方法汇总](notes/javascript/js所有内置对象属性和方法汇总.md)
 - [JavaScript模块化发展](notes/javascript/JavaScript模块化发展.md)
+- [JavaScript设计模式与开发实践](notes/javascript/JavaScript设计模式与开发实践.md)
 - [es6模块Module详解](notes/javascript/es6-Module.md)
 - [js知识点](notes/javascript/js知识点.md)
 
