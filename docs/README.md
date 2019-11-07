@@ -25,6 +25,7 @@
 - [JavaScript设计模式与开发实践](notes/javascript/JavaScript设计模式与开发实践.md)
 - [es6模块Module详解](notes/javascript/es6-Module.md)
 - [js知识点](notes/javascript/js知识点.md)
+- [async与await的深入理解](notes/javascript/async与await的深入理解.md)
 
 ## 🎉 JQuery
 - [jquery](notes/jquery/jquery.md)

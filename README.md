@@ -77,6 +77,8 @@
 
 ### [:books: js知识点](https://github.com/JabinHu/blog/blob/master/docs/notes/javascript/js知识点.md)
 
+### [:books: async与await的深入理解](https://github.com/JabinHu/blog/blob/master/docs/notes/javascript/async与await的深入理解.md)
+
 ## :tada: JQuery
 
 ### [:books: jquery](https://github.com/JabinHu/blog/blob/master/docs/notes/jquery/jquery.md)
