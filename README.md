@@ -97,9 +97,13 @@
 
 ## :snowman_with_snow: Node
 
-## :tomato: Java
+### [:books: 学习笔记](https://github.com/JabinHu/blog/blob/master/docs/notes/node/学习笔记.md)
+
+<!-- ## :tomato: Java -->
 
 ## :closed_lock_with_key: MySQL
+
+### [:books: 知识点](https://github.com/JabinHu/blog/blob/master/docs/notes/mysql/知识点.md)
 
 # :bouquet: 构建
 
@@ -117,7 +121,13 @@
 
 ### [:books: markdown语法](https://github.com/JabinHu/blog/blob/master/docs/notes/markdown/markdown.md)
 
+## :desktop_computer: website
 
+### [:books: markdown语法](https://github.com/JabinHu/blog/blob/master/docs/notes/website/网址.md)
+
+## :globe_with_meridians: 网络
+
+### [:books: 正反向代理](https://github.com/JabinHu/blog/blob/master/docs/notes/网络/正反向代理.md)
 
 
 

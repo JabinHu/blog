@@ -43,10 +43,13 @@
 - [进程与线程](https://www.liaoxuefeng.com/wiki/1016959663602400/1017627212385376)
 
 ## ☃️ Node
+- [学习笔记](notes/node/学习笔记.md)
 
-## 🍅 Java
+<!-- ## 🍅 Java -->
 
 ## 🔐 MySQL
+
+- [知识点](notes/mysql/知识点.md)
 
 # 💐 构建
 ***
@@ -66,10 +69,17 @@
 ***
 
 ## 📜 markdown
+
 - [markdown知识点](notes/markdown/markdown.md)
 
 ## 🖥 website
+
 - [网址](notes/website/网址.md)
+
+## 🌐 网络
+
+- [网址](notes/网络/正反向代理.md)
+
 
 
 <!-- <div align="center"> <img src="https://docsify.js.org/_media/icon.svg"/ width="100"></div> -->
