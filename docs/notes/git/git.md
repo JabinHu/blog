@@ -354,3 +354,10 @@ $ git config --global alias.unstage 'reset HEAD'
 $ git config --global alias.last 'log -1'
 git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
 ```
+
+## 问题记录
+
+如何解决failed to push some refs to git
+ 
+可以通过如下命令进行代码合并【注：pull=fetch+merge]
+git pull --rebase origin master

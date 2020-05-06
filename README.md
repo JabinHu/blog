@@ -31,9 +31,9 @@
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
 
-### 排版
+<!-- ### 排版
 
-不使用 `![]()` 这种方式来引用图片，而是用 `<img>` 标签。一方面是为了能够控制图片以合适的大小显示，另一方面是因为 [GFM](https://github.github.com/gfm/) 不支持 `<center> ![]() </center>` 这种方法让图片居中显示，只能使用 `<div align="center"> <img src=""/> </div>` 达到居中的效果。
+不使用 `![]()` 这种方式来引用图片，而是用 `<img>` 标签。一方面是为了能够控制图片以合适的大小显示，另一方面是因为 [GFM](https://github.github.com/gfm/) 不支持 `<center> ![]() </center>` 这种方法让图片居中显示，只能使用 `<div align="center"> <img src=""/> </div>` 达到居中的效果。 -->
 
 
 # :shamrock: 前端
@@ -76,6 +76,8 @@
 ### [:books: es6模块Module详解](https://github.com/JabinHu/blog/blob/master/docs/notes/javascript/es6-Module.md)
 
 ### [:books: js知识点](https://github.com/JabinHu/blog/blob/master/docs/notes/javascript/js知识点.md)
+
+### [:books: js运行机制](https://github.com/JabinHu/blog/blob/master/docs/notes/javascript/js运行机制.md)
 
 ### [:books: async与await的深入理解](https://github.com/JabinHu/blog/blob/master/docs/notes/javascript/async与await的深入理解.md)
 

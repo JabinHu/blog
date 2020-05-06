@@ -15,3 +15,4 @@ function getRandom() {
   const res = `${year}${month}${day}${hours}${minutes}${seconds}${r}`;
   return res;
 }
+console.log(getRandom());

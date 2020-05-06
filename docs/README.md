@@ -24,6 +24,7 @@
 - [JavaScript模块化发展](notes/javascript/JavaScript模块化发展.md)
 - [JavaScript设计模式与开发实践](notes/javascript/JavaScript设计模式与开发实践.md)
 - [es6模块Module详解](notes/javascript/es6-Module.md)
+- [js运行机制](notes/javascript/js运行机制.md)
 - [js知识点](notes/javascript/js知识点.md)
 - [async与await的深入理解](notes/javascript/async与await的深入理解.md)
 
@@ -78,7 +79,7 @@
 
 ## 🌐 网络
 
-- [网址](notes/网络/正反向代理.md)
+- [正反向代理](notes/网络/正反向代理.md)
 
 
 
