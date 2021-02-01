@@ -40,56 +40,41 @@
 
 ## :lollipop: HTML
 
-### [:books: html5](https://github.com/JabinHu/blog/blob/master/docs/notes/html/html5.md)
-### [:books: 轮播图-淡入淡出](https://github.com/JabinHu/blog/blob/master/docs/notes/html/轮播图-淡入淡出.md)
-### [:books: 轮播图-跑马灯式](https://github.com/JabinHu/blog/blob/master/docs/notes/html/轮播图-跑马灯式.md)
-### [:books: 解决回车键(Enter)触发form表单提交的问题](https://github.com/JabinHu/blog/blob/master/docs/notes/html/解决回车键(Enter)触发form表单提交的问题.md)
+- [html5](https://github.com/JabinHu/blog/blob/master/docs/notes/html/html5.md)
+- [轮播图-淡入淡出](https://github.com/JabinHu/blog/blob/master/docs/notes/html/轮播图-淡入淡出.md)
+- [轮播图-跑马灯式](https://github.com/JabinHu/blog/blob/master/docs/notes/html/轮播图-跑马灯式.md)
+- [解决回车键(Enter)触发form表单提交的问题](https://github.com/JabinHu/blog/blob/master/docs/notes/html/解决回车键(Enter)触发form表单提交的问题.md)
 
 ## :parasol_on_ground: Css
 
-### [:books: width和height](https://github.com/JabinHu/blog/blob/master/docs/notes/css/width和height.md)
-
-### [:books: position](https://github.com/JabinHu/blog/blob/master/docs/notes/css/position.md)
-
-### [:books: 自动换行显示问题](https://github.com/JabinHu/blog/blob/master/docs/notes/css/自动换行显示问题.md)
-
-### [:books: 伪元素](https://github.com/JabinHu/blog/blob/master/docs/notes/css/伪元素.md)
-
-### [:books: css加载顺序](https://github.com/JabinHu/blog/blob/master/docs/notes/css/css加载顺序.md)
-
-### [:books: media查询](https://github.com/JabinHu/blog/blob/master/docs/notes/css/media查询.md)
-
-### [:books: 元素分类](https://github.com/JabinHu/blog/blob/master/docs/notes/css/元素分类.md)
-
-### [:books: css属性选择器区别](https://github.com/JabinHu/blog/blob/master/docs/notes/css/css属性选择器区别.md)
+- [width和height](https://github.com/JabinHu/blog/blob/master/docs/notes/css/width和height.md)
+- [position](https://github.com/JabinHu/blog/blob/master/docs/notes/css/position.md)
+- [自动换行显示问题](https://github.com/JabinHu/blog/blob/master/docs/notes/css/自动换行显示问题.md)
+- [伪元素](https://github.com/JabinHu/blog/blob/master/docs/notes/css/伪元素.md)
+- [css加载顺序](https://github.com/JabinHu/blog/blob/master/docs/notes/css/css加载顺序.md)
+- [media查询](https://github.com/JabinHu/blog/blob/master/docs/notes/css/media查询.md)
+- [元素分类](https://github.com/JabinHu/blog/blob/master/docs/notes/css/元素分类.md)
+- [css属性选择器区别](https://github.com/JabinHu/blog/blob/master/docs/notes/css/css属性选择器区别.md)
 
 ## :pencil2: JavaScript
 
-### [:books: js中的prototype、__proto__与constructor](https://github.com/JabinHu/blog/blob/master/docs/notes/javascript/js中的prototype、__proto__与constructor.md)
-
-### [:books: js所有内置对象属性和方法汇总](https://github.com/JabinHu/blog/blob/master/docs/notes/javascript/js所有内置对象属性和方法汇总.md)
-
-### [:books: JavaScript模块化发展](https://github.com/JabinHu/blog/blob/master/docs/notes/javascript/JavaScript模块化发展.md)
-
-### [:books: JavaScript设计模式与开发实践](https://github.com/JabinHu/blog/blob/master/docs/notes/javascript/JavaScript设计模式与开发实践.md)
-
-### [:books: es6模块Module详解](https://github.com/JabinHu/blog/blob/master/docs/notes/javascript/es6-Module.md)
-
-### [:books: js知识点](https://github.com/JabinHu/blog/blob/master/docs/notes/javascript/js知识点.md)
-
-### [:books: js运行机制](https://github.com/JabinHu/blog/blob/master/docs/notes/javascript/js运行机制.md)
-
-### [:books: async与await的深入理解](https://github.com/JabinHu/blog/blob/master/docs/notes/javascript/async与await的深入理解.md)
+- [js中的prototype、__proto__与constructor](https://github.com/JabinHu/blog/blob/master/docs/notes/javascript/js中的prototype、__proto__与constructor.md)
+- [js所有内置对象属性和方法汇总](https://github.com/JabinHu/blog/blob/master/docs/notes/javascript/js所有内置对象属性和方法汇总.md)
+- [JavaScript模块化发展](https://github.com/JabinHu/blog/blob/master/docs/notes/javascript/JavaScript模块化发展.md)
+- [JavaScript设计模式与开发实践](https://github.com/JabinHu/blog/blob/master/docs/notes/javascript/JavaScript设计模式与开发实践.md)
+- [es6模块Module详解](https://github.com/JabinHu/blog/blob/master/docs/notes/javascript/es6-Module.md)
+- [js知识点](https://github.com/JabinHu/blog/blob/master/docs/notes/javascript/js知识点.md)
+- [js运行机制](https://github.com/JabinHu/blog/blob/master/docs/notes/javascript/js运行机制.md)
+- [async与await的深入理解](https://github.com/JabinHu/blog/blob/master/docs/notes/javascript/async与await的深入理解.md)
 
 ## :tada: JQuery
 
-### [:books: jquery](https://github.com/JabinHu/blog/blob/master/docs/notes/jquery/jquery.md)
+- [jquery](https://github.com/JabinHu/blog/blob/master/docs/notes/jquery/jquery.md)
 
 ## :art: React
 
-### [:books: react-router4](https://github.com/JabinHu/blog/blob/master/docs/notes/react/react-router4.md)
-
-### [:books: 技术站](https://github.com/JabinHu/blog/blob/master/docs/notes/react/技术站.md)
+- [react-router4](https://github.com/JabinHu/blog/blob/master/docs/notes/react/react-router4.md)
+- [技术站](https://github.com/JabinHu/blog/blob/master/docs/notes/react/技术站.md)
 
 ## :cloud: Vue
 
@@ -99,37 +84,37 @@
 
 ## :snowman_with_snow: Node
 
-### [:books: 学习笔记](https://github.com/JabinHu/blog/blob/master/docs/notes/node/学习笔记.md)
+- [学习笔记](https://github.com/JabinHu/blog/blob/master/docs/notes/node/学习笔记.md)
 
 <!-- ## :tomato: Java -->
 
 ## :closed_lock_with_key: MySQL
 
-### [:books: 知识点](https://github.com/JabinHu/blog/blob/master/docs/notes/mysql/知识点.md)
+- [知识点](https://github.com/JabinHu/blog/blob/master/docs/notes/mysql/知识点.md)
 
 # :bouquet: 构建
 
 ## :snowflake: Git
 
-### [:books: git知识点](https://github.com/JabinHu/blog/blob/master/docs/notes/git/git.md)
+- [git知识点](https://github.com/JabinHu/blog/blob/master/docs/notes/git/git.md)
 
 ## :dango: Webpack
 
-### [:books: webpack知识点](https://github.com/JabinHu/blog/blob/master/docs/notes/webpack/webpack.md)
+- [webpack知识点](https://github.com/JabinHu/blog/blob/master/docs/notes/webpack/webpack.md)
 
 # :hibiscus: 其他
 
 ## :scroll: markdown
 
-### [:books: markdown语法](https://github.com/JabinHu/blog/blob/master/docs/notes/markdown/markdown.md)
+- [markdown语法](https://github.com/JabinHu/blog/blob/master/docs/notes/markdown/markdown.md)
 
 ## :desktop_computer: website
 
-### [:books: markdown语法](https://github.com/JabinHu/blog/blob/master/docs/notes/website/网址.md)
+- [markdown语法](https://github.com/JabinHu/blog/blob/master/docs/notes/website/网址.md)
 
 ## :globe_with_meridians: 网络
 
-### [:books: 正反向代理](https://github.com/JabinHu/blog/blob/master/docs/notes/网络/正反向代理.md)
+- [正反向代理](https://github.com/JabinHu/blog/blob/master/docs/notes/网络/正反向代理.md)
 
 
 
