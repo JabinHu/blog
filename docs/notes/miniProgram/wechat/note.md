@@ -12,11 +12,11 @@
 
 授权用户信息
 
-提示授权，点击授权后，调用wx.login()函数发送code给自己的后端，后端返回获取openid和session_key，通过加密返回token给前端
+提示授权，点击授权后，调用 wx.login()函数发送 code 给自己的后端，后端返回获取 openid 和 session_key，通过加密返回 token 给前端
 
-wx.setStorageSync("token", token) 储存token。
+wx.setStorageSync("token", token) 储存 token。
 
-得到token后，放到请求的Header中。调用接口时，后端通过token校验。
+得到 token 后，放到请求的 Header 中。调用接口时，后端通过 token 校验。
 
 > 授权手机也同理
 
@@ -109,10 +109,10 @@ if (loginFlag) {
 ```
 
 **注意**
-- session_key和微信派发的code是一一对应的，同一code只能换取一次session_key。每次调用wx.login()，都会下发一个新的code和对应的session_key，为了保证用户体验和登录态的有效性，开发者需要清楚用户需要重新登录时才去调用wx.login()
 
-- session_key是有失效性的，即便是不调用wx.login，session_key也会过期，过期时间跟用户使用小程序的频率成正相关，但具体的时间长短开发者和用户都是获取不到的
+- session_key 和微信派发的 code 是一一对应的，同一 code 只能换取一次 session_key。每次调用 wx.login()，都会下发一个新的 code 和对应的 session_key，为了保证用户体验和登录态的有效性，开发者需要清楚用户需要重新登录时才去调用 wx.login()
 
+- session_key 是有失效性的，即便是不调用 wx.login，session_key 也会过期，过期时间跟用户使用小程序的频率成正相关，但具体的时间长短开发者和用户都是获取不到的
 
 ## 插件
 
