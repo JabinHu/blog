@@ -114,6 +114,10 @@ if (loginFlag) {
 
 - session_key 是有失效性的，即便是不调用 wx.login，session_key 也会过期，过期时间跟用户使用小程序的频率成正相关，但具体的时间长短开发者和用户都是获取不到的
 
+## 使用图标 icon
+
+[参考文章](https://blog.csdn.net/nongweiyilady/article/details/74244362)
+
 ## 插件
 
 - [图片裁剪 image-cropper](https://github.com/wx-plugin/image-cropper)
