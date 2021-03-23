@@ -57,6 +57,7 @@
 ## ☃️ Node
 
 - [学习笔记](notes/node/学习笔记.md)
+- [npm](notes/node/npm.md)
 
 <!-- ## 🍅 Java -->
 

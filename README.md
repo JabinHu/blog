@@ -1,7 +1,7 @@
 ## [:shamrock: 前端](#shamrock-前端)
 
-|             HTML             |                      Css                      |            JavaScript            |         JQuery         |        React        |          Vue          |          Mini Program          |
-| :--------------------------: | :-------------------------------------------: | :------------------------------: | :--------------------: | :-----------------: | :-------------------: | :-------------------: |
+|             HTML             |                      Css                      |            JavaScript            |         JQuery         |        React        |          Vue          |               Mini Program               |
+| :--------------------------: | :-------------------------------------------: | :------------------------------: | :--------------------: | :-----------------: | :-------------------: | :--------------------------------------: |
 | [:lollipop:](#lollipop-HTML) | [:parasol_on_ground:](#parasol_on_ground-Css) | [:pencil2:](#pencil2-JavaScript) | [:tada:](#tada-JQuery) | [:art:](#art-React) | [:cloud:](#cloud-Vue) | [:strawberry:](#strawberry-mini-program) |
 
 ## [:cherry_blossom: 后端](#cherry_blossom-后端)
@@ -88,6 +88,7 @@
 ## :snowman_with_snow: Node
 
 - [学习笔记](https://github.com/JabinHu/blog/blob/master/docs/notes/node/学习笔记.md)
+- [npm](https://github.com/JabinHu/blog/blob/master/docs/notes/node/npm.md)
 
 <!-- ## :tomato: Java -->
 
