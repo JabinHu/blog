@@ -106,6 +106,10 @@
 
 - [webpack 知识点](https://github.com/JabinHu/blog/blob/master/docs/notes/webpack/webpack.md)
 
+## DevOps
+
+- [什么是 CI、CD、DevOps](https://github.com/JabinHu/blog/blob/master/docs/notes/framework/什么是CI、CD、DevOps.md)
+
 # :hibiscus: 其他
 
 ## :scroll: markdown

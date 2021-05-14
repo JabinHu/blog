@@ -180,3 +180,5 @@ export * from 'src/other_module';
 export { foo, bar } from 'src/other_module'; 
 export { foo as myFoo, bar } from 'src/other_module'; 
 ```
+
+> CommonJS 模块输出的是一个值的拷贝，ES6 模块输出的是值的引用
