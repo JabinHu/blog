@@ -124,6 +124,6 @@
 
 - [正反向代理](https://github.com/JabinHu/blog/blob/master/docs/notes/network/正反向代理.md)
 
-## :laptop: mac
+## :computer: mac
 
 - [新电脑装软件](https://github.com/JabinHu/blog/blob/master/docs/notes/mac/新电脑装软件.md)
