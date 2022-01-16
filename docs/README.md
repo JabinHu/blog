@@ -93,8 +93,12 @@
 
 - [网址](notes/website/网址.md)
 
-## 🌐 网络
+## 🌐 network
 
-- [正反向代理](notes/网络/正反向代理.md)
+- [正反向代理](notes/network/正反向代理.md)
+
+## 💻 mac
+
+- [新电脑装软件](notes/mac/新电脑装软件.md)
 
 <!-- <div align="center"> <img src="https://docsify.js.org/_media/icon.svg"/ width="100"></div> -->

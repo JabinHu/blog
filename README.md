@@ -120,6 +120,10 @@
 
 - [markdown 语法](https://github.com/JabinHu/blog/blob/master/docs/notes/website/网址.md)
 
-## :globe_with_meridians: 网络
+## :globe_with_meridians: network
 
-- [正反向代理](https://github.com/JabinHu/blog/blob/master/docs/notes/网络/正反向代理.md)
+- [正反向代理](https://github.com/JabinHu/blog/blob/master/docs/notes/network/正反向代理.md)
+
+## :Laptop: mac
+
+- [新电脑装软件](https://github.com/JabinHu/blog/blob/master/docs/notes/mac/新电脑装软件.md)
