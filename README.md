@@ -1,4 +1,4 @@
-## [:shamrock: 前端](#shamrock-前端)
+<!-- ## [:shamrock: 前端](#shamrock-前端)
 
 |             HTML             |                      Css                      |            JavaScript            |         JQuery         |        React        |          Vue          |               Mini Program               |
 | :--------------------------: | :-------------------------------------------: | :------------------------------: | :--------------------: | :-----------------: | :-------------------: | :--------------------------------------: |
@@ -20,7 +20,11 @@
 
 |           Markdown           |
 | :--------------------------: |
-| [:scroll:](#scroll-markdown) |
+| [:scroll:](#scroll-markdown) | -->
+
+### Detail
+
+[https://jabinhu.github.io/blog](https://jabinhu.github.io/blog)
 
 ### License
 
@@ -33,9 +37,9 @@
 
 <!-- ### 排版
 
-不使用 `![]()` 这种方式来引用图片，而是用 `<img>` 标签。一方面是为了能够控制图片以合适的大小显示，另一方面是因为 [GFM](https://github.github.com/gfm/) 不支持 `<center> ![]() </center>` 这种方法让图片居中显示，只能使用 `<div align="center"> <img src=""/> </div>` 达到居中的效果。 -->
+不使用 `![]()` 这种方式来引用图片，而是用 `<img>` 标签。一方面是为了能够控制图片以合适的大小显示，另一方面是因为 [GFM](https://github.github.com/gfm/) 不支持 `<center> ![]() </center>` 这种方法让图片居中显示，只能使用 `<div align="center"> <img src=""/> </div>` 达到居中的效果。 -->`
 
-# :shamrock: 前端
+<!-- # :shamrock: 前端
 
 ## :lollipop: HTML
 
@@ -81,7 +85,6 @@
 
 - [微信小程序登录鉴权](https://github.com/JabinHu/blog/blob/master/docs/notes/miniProgram/wechat/note.md)
 
-<!-- ## :cherries: Other -->
 
 # :cherry_blossom: 后端
 
@@ -90,7 +93,6 @@
 - [学习笔记](https://github.com/JabinHu/blog/blob/master/docs/notes/node/学习笔记.md)
 - [npm](https://github.com/JabinHu/blog/blob/master/docs/notes/node/npm.md)
 
-<!-- ## :tomato: Java -->
 
 ## :closed_lock_with_key: MySQL
 
@@ -120,10 +122,6 @@
 
 - [markdown 语法](https://github.com/JabinHu/blog/blob/master/docs/notes/website/网址.md)
 
-## :globe_with_meridians: network
+## :globe_with_meridians: 网络
 
-- [正反向代理](https://github.com/JabinHu/blog/blob/master/docs/notes/network/正反向代理.md)
-
-## :computer: mac
-
-- [新电脑装软件](https://github.com/JabinHu/blog/blob/master/docs/notes/mac/新电脑装软件.md)
+- [正反向代理](https://github.com/JabinHu/blog/blob/master/docs/notes/网络/正反向代理.md) -->
